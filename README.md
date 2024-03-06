@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Megh Deb</h1>
 <h3 align="center">A passionate entrepreneur and programmer from Kolkata</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Megh2005" alt="Megh2005" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Megh2005&theme=onedark" alt="Megh2005" /></a> </p>
 
 - 🔭 I’m currently working on [Cloud Rest Solutions](https://graceful-torte-6a8d07.netlify.app/)
 
