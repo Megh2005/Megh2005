@@ -3,21 +3,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Megh2005&theme=matrix" alt="Megh2005" /></a> </p>
 
-- 🔭 I’m currently working on [Cloud Rest Solutions](https://graceful-torte-6a8d07.netlify.app/)
+- 🔭 I’m currently working on **[Cloud Rest Solutions](https://graceful-torte-6a8d07.netlify.app/)**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **[Kotlin](https://kotlinlang.org/)**
 
-- 👯 I’m looking to collaborate on [Firebase](https://firebase.google.com/)
+- 👯Connect me through my **[Social Links](https://linktr.ee/meghdeb)**
 
-- 🤝 I’m also available at website [click here](https://portfolio-flax-nine-15.vercel.app/)
+- 🤝 I’m also available at **[Google](https://portfolio-flax-nine-15.vercel.app/)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Megh2005](https://github.com/Megh2005)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Megh2005)**
 
-- 📝 I write articles on [Designing](https://www.linkedin.com/posts/megh-deb-20637a2a1_connections-comments-activity-7169906081660436480-_bpa?utm_source=share&utm_medium=member_desktop)
+- 📝 I write articles on **[Designing](https://www.linkedin.com/posts/megh-deb-20637a2a1_connections-comments-activity-7169906081660436480-_bpa?utm_source=share&utm_medium=member_desktop)**
 
 - 💬 Ask me about **Marketing , Android**
 
-- 📫 How to reach me **iammeghdeb@gmail.com**
+- 📫 How to reach me **[iammeghdeb@gmail.com](mailto:iammeghdeb@gmail.com?subject=I%20want%20to%20connect)**
 
 - 📄 Know about my experiences [click here](https://old-portfolio-dj58tt4aw-megh-debs-projects.vercel.app/)
 
