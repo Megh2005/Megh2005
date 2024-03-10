@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Megh2005&show_icons=true&theme=dark&locale=en" alt="Megh2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Megh2005&theme=highcontrast" alt="Megh2005" /></p>
+<a href="https://www.buymeacoffee.com/iammeghdeb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
