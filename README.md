@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **[iammeghdeb@gmail.com](mailto:iammeghdeb@gmail.com?subject=I%20want%20to%20connect)**
 
-- 📄 Know about my experiences [click here](https://old-portfolio-dj58tt4aw-megh-debs-projects.vercel.app/)
+- 📄 Know about my experiences **[click here](https://old-portfolio-dj58tt4aw-megh-debs-projects.vercel.app/)**
 
 
 
