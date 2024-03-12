@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Megh2005&theme=matrix&no-bg=true" alt="Megh2005" /></a> </p>
 
-- 🔭 I’m currently working on **[Cloud Rest Solutions](https://graceful-torte-6a8d07.netlify.app/)**
+- 🔭 I’m currently working on **[Heritage Institute of Technology](https://heritageit.edu)**
 
 - 🌱 I’m currently learning **[Kotlin](https://kotlinlang.org/)**
 
