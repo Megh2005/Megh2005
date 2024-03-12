@@ -9,7 +9,7 @@
 
 - 👯Connect me through my **[Social Links](https://linktr.ee/meghdeb)**
 
-- 🤝 I’m also available at **[Google](https://portfolio-flax-nine-15.vercel.app/)**
+- 🤝 I’m also available at **[Google for Developers](https://g.dev/MeghDeb)**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Megh2005)**
 
