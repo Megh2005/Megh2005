@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://i.pinimg.com/564x/8b/c8/13/8bc8138470ece0f8c5a6dc3cd715de92.jpg" alt="hgy" /></p>
+<p>&nbsp;       <img align="center" src="https://i.pinimg.com/564x/8b/c8/13/8bc8138470ece0f8c5a6dc3cd715de92.jpg" alt="hgy" /></p>
 <h1 align="center">Hi 👋, I'm Megh Deb</h1>
 <h3 align="center">A passionate entrepreneur and programmer from Kolkata</h3>
 
