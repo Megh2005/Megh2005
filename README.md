@@ -1,5 +1,5 @@
 [![](https://github.com/jpoehnelt/in-solidarity-bot/raw/main/static//badge-for-the-badge.png)](https://github.com/apps/in-solidarity)
-<p align="center"> <a href="https://linktr.ee/meghdeb" target="_blank"> <img src="https://i.pinimg.com/originals/8b/c8/13/8bc8138470ece0f8c5a6dc3cd715de92.png" alt="banner"/> </a>
+<p align="center"> <a href="https://linktr.ee/meghdeb" target="_blank"> <img src="https://github.com/Megh2005/Basic-Weather-Website/assets/147889330/8ceb92f4-1bf0-467b-9d75-21d00c07c17b" alt="banner"/> </a>
 <h1 align="center">Hi 👋, I'm Megh Deb</h1>
 
 # 💫 About Me
