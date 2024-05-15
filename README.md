@@ -23,7 +23,5 @@
 
 ## ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-## See The Fun
-![Snake animation](https://raw.githubusercontent.com/Megh2005/Megh2005/output/github-contribution-grid-snake-dark.svg)
 
 # 🤗 Thank You For Visiting My Profile
