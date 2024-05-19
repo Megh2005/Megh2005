@@ -15,7 +15,8 @@
 ![](https://github-stats-alpha.vercel.app/api?username=Megh2005&cc=000&tc=fff&ic=fff&bc=00ffcf "profile")
 ![](https://github-readme-stats.vercel.app/api?username=Megh2005&show_icons=true&theme=radical)
 ![](https://streak-stats.demolab.com?user=Megh2005&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=480)
-![](https://stats.quine.sh/MeghDeb/languages-over-time?theme=dark)<hr/>
+![](https://stats.quine.sh/MeghDeb/languages-over-time?theme=dark)
+[![MeghDeb's GitHub | Dependencies](https://stats.quine.sh/MeghDeb/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MeghDeb)<hr/>
 
 ## 🏆 My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Megh2005&theme=radical&no-frame=false&no-bg=true&margin-w=5)
