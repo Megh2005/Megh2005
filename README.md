@@ -14,7 +14,7 @@
 # 🎯 My 2024 Tasklist
 - [x] Be an average android developer
 - [ ] Be an excellent android developer
-- [x] Be a good human being from :anatomical_heart:
+- [x] Be a good human being from :heart:
 - [ ] Loose some weight from my body
 - [x] Receive a good internship
 - [x] Support any of the coding communities
