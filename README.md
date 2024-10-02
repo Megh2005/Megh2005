@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://linktr.ee/meghdeb" target="_blank"> <img src="https://github.com/Megh2005/Basic-Weather-Website/assets/147889330/8ceb92f4-1bf0-467b-9d75-21d00c07c17b" alt="banner"/> </a>
+<p align="center"> <a href="https://linktr.ee/meghdeb" target="_blank"> <img src="github-header-image.png" alt="banner"/> </a>
 <h1 align="center">Hi 👋, I'm Megh Deb</h1>
 
 # 💫 About Me
