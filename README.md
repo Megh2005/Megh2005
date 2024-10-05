@@ -36,11 +36,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=Megh2005&show_icons=true&theme=radical)
 ![](https://streak-stats.demolab.com?user=Megh2005&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=480)
 
+
 # :trophy: My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Megh2005&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 # My Holopin
 [![An image of @megh2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/megh2005)](https://holopin.io/@megh2005)
+
+# Contribution Chart
+![](https://github-readme-activity-graph.vercel.app/graph?username=Megh2005&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
 
 
 # :fountain_pen: Quote of the Day
