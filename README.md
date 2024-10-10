@@ -22,12 +22,12 @@
 - [x] Be an average android developer
 - [ ] Be an excellent android developer
 - [x] Be a good human being from :heart:
-- [ ] Loose some weight from my body
+- [x] Loose some weight from my body
 - [x] Receive a good internship
 - [x] Support any of the coding communities
 - [x] Get a healthy YGPA
 - [ ] Join a yoga club
-- [ ] Buying a new Macbook M3 PRO
+
 > [!NOTE]
 > As there are stll few months left in year 2024, I am trying hard to fulfil my unchecked targets.
 
@@ -49,6 +49,8 @@
 
 # :fountain_pen: Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# :snake: Contribution Snake
+![](https://res.cloudinary.com/dmbxx03vp/image/upload/v1728586780/github-user-contribution_sdje0m.svg)
 
 > [!CAUTION]
 > Don't Leave My GitHub Profile Without Giving :star: In The Repositories.
