@@ -7,8 +7,6 @@
 # 🌐 My Socials
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/iammeghdeb) 
 &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:iammeghdeb@gmail.com)
-&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/megh-deb)
 &nbsp;
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/iammeghdeb)
@@ -18,23 +16,12 @@
 # 💻 My Tech Experience
 [![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,js,html,css,ts,c,cpp,mongodb,postgresql,postman,prisma,unrealengine,gcp,next,express,kubernetes,git,figma,firebase,nodejs,python,threejs,ubuntu&perline=12)](https://skillicons.dev)
 
-# 🎯 My 2024 Tasklist
-- [x] Be an average android developer
-- [ ] Be an excellent android developer
-- [x] Be a good human being from :heart:
-- [x] Loose some weight from my body
-- [x] Receive a good internship
-- [x] Support any of the coding communities
-- [x] Get a healthy YGPA
-- [ ] Join a yoga club
-
-> [!NOTE]
-> As there are stll few months left in year 2024, I am trying hard to fulfil my unchecked targets.
-
 # 📊 My GitHub Stats
-![](https://github-stats-alpha.vercel.app/api?username=Megh2005&cc=000&tc=fff&ic=fff&bc=00ffcf "profile")
+![](https://github-stats-alpha.vercel.app/api?username=Megh2005&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
 ![](https://github-readme-stats.vercel.app/api?username=Megh2005&show_icons=true&theme=radical)
-![](https://streak-stats.demolab.com?user=Megh2005&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=480)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Megh2005&theme=radical&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Megh2005&theme=radical)
+
 
 
 # :trophy: My GitHub Trophies
