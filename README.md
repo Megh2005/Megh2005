@@ -9,7 +9,7 @@
 &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/megh-deb)
 &nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/iammeghdeb)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ThisIsMeghDeb)
 
 
 
