@@ -14,7 +14,7 @@
 
 
 # 💻 My Tech Experience
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,js,html,css,ts,c,cpp,mongodb,postgresql,postman,prisma,unrealengine,gcp,next,express,kubernetes,git,figma,firebase,nodejs,python,threejs,ubuntu&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,js,html,css,ts,c,solidity,mongodb,postgresql,postman,prisma,unrealengine,gcp,next,express,kubernetes,git,figma,firebase,nodejs,python,threejs,ubuntu&perline=12)](https://skillicons.dev)
 
 # 📊 My GitHub Stats
 ![](https://github-stats-alpha.vercel.app/api?username=Megh2005&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
