@@ -5,11 +5,11 @@
 🔭 I’m currently studying at **Heritage Institute of Technology**<br>👯 I’m looking to collaborate on a **Women Empowerment App**<br>🤝 I’m looking for help with **Firebase**<br>🌱 I’m currently learning **Kotlin**<br>💬 Tou can ask me about **Android Development**<br>
 
 # 🌐 My Socials
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/iammeghdeb) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/meghdeb_iammeghdeb) 
 &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/megh-deb)
 &nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ThisIsMeghDeb)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/iammeghdeb)
 
 
 
@@ -29,9 +29,6 @@
 
 # My Holopin
 [![An image of @megh2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/megh2005)](https://holopin.io/@megh2005)
-
-# Contribution Chart
-![](https://github-readme-activity-graph.vercel.app/graph?username=Megh2005&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
 
 
 # :fountain_pen: Quote of the Day
