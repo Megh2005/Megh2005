@@ -33,8 +33,6 @@
 
 # :fountain_pen: Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-# :snake: Contribution Snake
-![](https://res.cloudinary.com/dmbxx03vp/image/upload/v1728586780/github-user-contribution_sdje0m.svg)
 
 > [!CAUTION]
 > Don't Leave My GitHub Profile Without Giving :star: In The Repositories.
