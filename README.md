@@ -2,12 +2,20 @@
 <h1 align="center">Hi 👋, I'm Megh Deb</h1>
 
 # 💫 About Me
-I’m currently studying at **Heritage Institute of Technology**. I **build on chains**, break down contracts and **teach what I learn** along the way moving through the **Web3 world** with a bit of mystery and a lot of curiosity always shipping always exploring always on chain. I am a **Web3 developer** and **smart contract auditor** turning complex chains into simple ideas mentor at heart building on EVM and beyond sharing the journey of decentralisation one block at a time.
+I’m a **Software Developer** and engineering student passionate about building practical technology that solves real world problems. I’m currently pursuing my B.Tech in Civil Engineering at **Heritage Institute of Technology**, while developing my career in software engineering.
+
+My primary areas of expertise are **Mobile App Development** and **Full Stack Web Application Development**. I enjoy turning ideas into functional products, learning new technologies, and continuously improving the way I build and solve problems. I have worked on projects across healthcare, agriculture, AI and other technology driven domains.
+
+I’m also actively involved in hackathons and developer communities, having participated in and won multiple hackathons. I enjoy collaborating with other developers, sharing knowledge, and helping build an environment where people can learn and create together.
+
+I’m pleased to be placed at **Tata Consultancy Services (TCS)** as a ***Systems Engineer, Grade C1*** through the **Prime role**, which marks an important milestone in my professional journey.
+
+I believe in learning by building, staying curious, and using technology to create solutions that are useful, accessible, and impactful.
 
 
 
 # 🌐 My Socials
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/meghdeb_iammeghdeb) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/meghdeb.tech) 
 &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/megh-deb)
 &nbsp;
